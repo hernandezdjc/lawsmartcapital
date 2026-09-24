@@ -210,7 +210,7 @@ footer{background:#071326;color:#fff;padding:70px var(--pad) 28px}
 }
 
 /* Hero con la imagen editorial de la primera propuesta */
-.hero{min-height:850px;background-color:var(--navy-deep);background-image:linear-gradient(90deg,rgba(5,16,34,.98) 0%,rgba(5,17,36,.90) 37%,rgba(5,17,36,.38) 68%,rgba(5,17,36,.08) 100%),linear-gradient(0deg,rgba(5,16,34,.72) 0%,transparent 38%),url('./assets/lawsmart-capital-hero.png');background-position:center;background-size:cover}
+.hero{min-height:850px;background-color:var(--navy-deep);background-image:linear-gradient(90deg,rgba(5,16,34,.98) 0%,rgba(5,17,36,.90) 37%,rgba(5,17,36,.38) 68%,rgba(5,17,36,.08) 100%),linear-gradient(0deg,rgba(5,16,34,.72) 0%,transparent 38%),url('./assets/lawsmart-capital-hero.webp');background-position:center;background-size:cover}
 .hero:before{inset:0;width:auto;height:auto;border-radius:0;background:linear-gradient(90deg,rgba(183,154,112,.08) 1px,transparent 1px);background-size:25% 100%;pointer-events:none}
 .hero-grid{display:none}
 .hero-content{display:flex;align-items:center;gap:0}
